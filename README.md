@@ -11,6 +11,8 @@
 - 此外，也会考虑录制其他OJ网站（如浙大OJ）的视频题解，从空白开始编写可执行、能通过的代码，以适应编程比赛需求。
 
 ## 已更新内容
+- 浙大OJ PTA[乙级题库](https://pintia.cn/problem-sets/994805260223102976/problems/type/7) 部分题目[Java实现](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/ZJU-PTA/BasicLevel) 
+
 - LeetCode探索板块[算法面试题汇总](https://leetcode-cn.com/leetbook/read/top-interview-questions/) 
 
 | 题目 | 视频题解 | 代码 |
@@ -20,8 +22,6 @@
 | [搜索二维矩阵II](https://leetcode-cn.com/leetbook/read/top-interview-questions/xmlwi1/)  | [视频题解](https://www.bilibili.com/video/BV1UK4y157Sk)    |  [C++代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/C++) 、[Java代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/Java) 、[Python代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/Python) |
 | [合并两个有序数组](https://leetcode-cn.com/leetbook/read/top-interview-questions/xmi2l7/)  |  [视频题解](https://www.bilibili.com/video/BV1Zy4y1q7pZ) |  [C++代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/C++) 、[Java代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/Java) 、[Python代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/Python) |
 | [验证回文串](https://leetcode-cn.com/leetbook/read/top-interview-questions/xah8k6/)  |  [视频题解](https://www.bilibili.com/video/BV1Pr4y1F7mK) |  [C++代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/C++) 、[Java代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/Java) 、[Python代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/Python) |
-
-- 浙大OJ PTA[乙级题库](https://pintia.cn/problem-sets/994805260223102976/problems/type/7) 部分题目[Java实现](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/ZJU-PTA/BasicLevel) 
 
 ## 代码贡献
 - **目前仓库中的题解代码是由C++、JAVA、Python语言编写而成的，欢迎大家参与提交其他语言版本的题解代码。**

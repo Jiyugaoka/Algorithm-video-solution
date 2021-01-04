@@ -11,7 +11,9 @@
 - 此外，也会考虑录制其他OJ网站（如浙大OJ）的视频题解，从空白开始编写可执行、能通过的代码，以适应编程比赛需求。
 
 ## 已更新内容
-- 浙大OJ PTA[乙级题库](https://pintia.cn/problem-sets/994805260223102976/problems/type/7) 部分题目[Java实现](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/ZJU-PTA/BasicLevel) 
+- 浙大OJ PTA[甲级题库](https://pintia.cn/problem-sets/994805342720868352/problems/type/7) 部分题目[Java实现](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/ZJU-PTA/AdavncedLevel) 
+
+- 浙大OJ PTA[乙级题库](https://pintia.cn/problem-sets/994805260223102976/problems/type/7) 部分题目[Java实现](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/ZJU-PTA/BasicLevel)
 
 - LeetCode探索板块[算法面试题汇总](https://leetcode-cn.com/leetbook/read/top-interview-questions/) 
 

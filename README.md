@@ -8,7 +8,7 @@
 
 - 后期会录制探索板块其他电子书对应的视频题解，相应代码也会同步到本仓库中。
 
-- 此外，也会考虑录制其他OJ网站（[如浙大OJ](https://www.patest.cn/)）的视频题解，从空白开始编写可执行、能通过的代码，以适应编程比赛需求。
+- 此外，也会考虑录制其他OJ网站（如[浙大OJ](https://www.patest.cn/)）的视频题解，从空白开始编写可执行、能通过的代码，以适应编程比赛需求。
 
 ## 已更新内容
 - 浙大OJ PTA[甲级题库](https://pintia.cn/problem-sets/994805342720868352/problems/type/7) 部分题目[Java实现](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/ZJU-PTA/AdavncedLevel) 
@@ -32,6 +32,7 @@
 | [有效的字母异位词](https://leetcode-cn.com/leetbook/read/top-interview-questions/xar9lv/)  |  [视频题解](https://www.bilibili.com/video/BV1gX4y1M71w) |  [C++代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/C++) 、[Java代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/Java) 、[Python代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/Python) |
 | [字符串中的第一个唯一字符](https://leetcode-cn.com/leetbook/read/top-interview-questions/xaph0j/)  |  [视频题解](https://www.bilibili.com/video/BV18X4y1M7Gi) |  [C++代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/C++) 、[Java代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/Java) 、[Python代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/Python) |
 | [反转字符串](https://leetcode-cn.com/leetbook/read/top-interview-questions/xapbdt/)  |  [视频题解](https://www.bilibili.com/video/BV1jh4112724) |  [C++代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/C++) 、[Java代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/Java) 、[Python代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/Python) |
+| [乘积最大子数组](https://leetcode-cn.com/leetbook/read/top-interview-questions/xmk3rv/)  |  [视频题解](https://www.bilibili.com/video/BV1gX4y1K7mK) |  [C++代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/C++) 、[Java代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/Java) 、[Python代码](https://github.com/Jiyugaoka/Algorithm-video-solution/blob/main/leetcode/top-interview-questions/Python) |
 
 ## 代码贡献
 - **目前仓库中的题解代码是由C++、Java、Python语言编写而成的，欢迎大家参与提交其他语言版本的题解代码。**

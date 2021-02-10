@@ -11,7 +11,7 @@ class Solution {
     *    pair<int, int> node;
     * 然后自定义一个排序函数
     * int cmp(pair<int, int> a, pair<int, int> b){
-    *    return a.second - b.second;
+    *    return b.second - a.second;
     * } 
     * Java中则使用内部类, 然后使用List<>的内部方法sort同样是自定义排序规则.
     */
@@ -39,13 +39,14 @@ class Solution {
                 queue.offer(new int[]{num, count});
             }
         }
-        // 时间复杂度：O(k)
+        // 时间复杂度：O(k log k)，常数时间复杂度.
         int[] ret = new int[k];
         for (int i = 0; i < k; ++i) {
             ret[i] = queue.poll()[0];
         }
         // 总的时间复杂度O(n log k), 空间复杂度O(n).
-        // 哈希表的大小为 O(n), 而堆的大小为 O(k).
+        // 建立哈希表时间复杂度为 O(n), 而遍历哈希表入堆时间复杂度为 O(k).
+        // 哈希表的空间复杂度为 O(n), 而堆的空间复杂度为 O(k).
         return ret;
     }
 }
